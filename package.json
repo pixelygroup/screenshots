@@ -1,0 +1,24 @@
+{
+  "name": "px-screenshots",
+  "version": "1.0.0",
+  "description": "A screenshot hosting repository for another projects to minimise their bundle size.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixelygroup/screenshots.git"
+  },
+  "keywords": [
+    "screenshots",
+    "project",
+    "images"
+  ],
+  "author": "Lubos Krystynek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pixelygroup/screenshots/issues"
+  },
+  "homepage": "https://github.com/pixelygroup/screenshots#readme"
+}
